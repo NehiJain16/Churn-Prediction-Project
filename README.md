@@ -1,24 +1,24 @@
 # Churn-Prediction-Project
 Customer Churn Prediction &amp; Retention Strategy | Python, Power BI, ML
 
-# 📊 Customer Churn Prediction and Power BI Dashboard
+# Customer Churn Prediction and Power BI Dashboard
 
 This project combines **machine learning** and **business intelligence** to identify customers at risk of churn, explain key factors influencing their behavior, and guide data-driven retention strategies through a **Power BI dashboard**.
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 - **Goal**: Predict customer churn and visualize insights to support business decision-making.
 - **Dataset**: [Telco Customer Churn Dataset - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - **Tools Used**:  
-  🐍 Python (Pandas, Sklearn, XGBoost, Matplotlib, Seaborn)  
-  📈 Power BI (DAX, KPIs, Heatmaps, Drill-throughs)  
-  📊 Google Colab  
+   Python (Pandas, Sklearn, XGBoost, Matplotlib, Seaborn)  
+   Power BI (DAX, KPIs, Heatmaps, Drill-throughs)  
+   Google Colab  
 
 ---
 
-## ⚙️ ML Pipeline (Python)
+## ML Pipeline (Python)
 
 - Data cleaning and preprocessing
 - Label encoding and feature engineering
@@ -31,7 +31,7 @@ This project combines **machine learning** and **business intelligence** to iden
 
 ---
 
-## 📈 Power BI Dashboard Highlights
+## Power BI Dashboard Highlights
 
 - **Summary Page**:
   - KPIs: Total Customers, Churned Customers, Churn Rate, Monthly Revenue Loss
@@ -56,7 +56,7 @@ This project combines **machine learning** and **business intelligence** to iden
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - Customers on **month-to-month contracts with fiber optic internet** are at highest risk
 - Estimated **monthly revenue loss** due to churn is significant
@@ -65,7 +65,7 @@ This project combines **machine learning** and **business intelligence** to iden
 
 ---
 
-## 📢 How to Use
+## How to Use
 
 1. Run the Python notebook (`.ipynb`) in Google Colab or Jupyter
 2. Use the generated `churn_output_for_powerbi.csv` in Power BI
@@ -74,7 +74,7 @@ This project combines **machine learning** and **business intelligence** to iden
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 I'm a **Microsoft Certified: Power BI Data Analyst Associate** with hands-on experience in:
 - Data modeling
@@ -85,7 +85,7 @@ I'm a **Microsoft Certified: Power BI Data Analyst Associate** with hands-on exp
 
 ---
 
-## 📬 Feedback & Contributions
+## Feedback & Contributions
 
 Feel free to raise an issue or fork this project to improve it further!
 
